@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+.funFont {
+    font-family: "Fredoka One", "Courier New", Courier, monospace;
+    color: rgb(86, 138, 206);
+}
+
+.name {
+    font-size: 5em;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    min-height: 100vh;
+    padding: 25px;
+    background-color: #ffffff;
+}
+
+.search {
+    width: 100%;
+    margin: 0 0 75px;
+}
+
+.card {
+    background-color: #1c88be;
+}
+
+.hourlyCard {
+    background-color: #1cbe8d;
+}
+
+.text {
+    text-align: center;
+    color: white;
+}
+
+.main {
+    font-size: 60px;
+}
+
+.altText {
+    font-family: "Fredoka One", "Courier New", Courier, monospace;
+    text-align: center;
+    color: rgb(61, 70, 148);
+}
